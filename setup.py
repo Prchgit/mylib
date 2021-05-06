@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     # Needed to silence warnings (and to be a worthwhile package)
-    name='Multip',
+    name='multip',
     url='https://github.com/Prchgit/mylib/',
     author='Prashant',
     author_email='jladan@uwaterloo.ca',
